@@ -1,0 +1,7 @@
+{"connection": {
+    "server":"mafalda",
+    "port":"5432",
+    "user":"postgres",
+    "password":"$Michele2006$",
+    "db":"minwage"
+}}
